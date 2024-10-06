@@ -3,7 +3,7 @@ $string = '{
     "nama": "Andi",
     "umur": 20,
     "Fakultas": "FTIK",
-    "Universitas": "Universitas Semarang"';
+    "Universitas": "Universitas Semarang"}';
 
 $php_object = json_decode($string);
 
